@@ -3,6 +3,7 @@
 List of named characters.
 
 ## Magmos Dominion Force (MDF)
+- [Ahekohek](Ahekohek.md)
 - [Ancient](Ancient.md)
 - [Avekav](Avekav.md)
 - [Brossk](Brossk.md)
@@ -21,6 +22,7 @@ List of named characters.
 - [Pharaoh](Pharaoh.md)
 - [Severon Vaught](SeveronVaught.md)
 - [Scorven](Scorven.md)
+- [Solev](Solev.md)
 - [Sven](Sven.md)
 - [Tarkan](Tarkan.md)
 - [Tarresha](Tarresha.md)
@@ -31,6 +33,7 @@ List of named characters.
 - [Vaux Azzacci](VauxAzzacci.md)
 - [Veraq](Veraq.md)
 - [Versca](Versca.md)
+- [Viceroy](Viceroy.md)
 - [Vieke](Vieke.md)
 - [Villarian](Villarian.md)
 - [Vorlon](Vorlon.md)
