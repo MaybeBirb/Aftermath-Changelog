@@ -11,11 +11,11 @@ The war for Magmos 2 is an ongoing campaign in the server Armored Core: In The A
 
 Wiki pages:  
 ---
-## [HISTORY](History/GeneralHistory.md)
+## [HISTORY](main/History/GeneralHistory.md)
 ---
-## [CHARACTERS](Characters/CharacterIndex.md)
+## [CHARACTERS](main/Characters/CharacterIndex.md)
 ---
-## [MACHINES](Machines/MachineList.md)
+## [MACHINES](main/Machines/MachineList.md)
 ---
-## [DATA LOGS](DataLogs/Logs.md)
+## [DATA LOGS](main/DataLogs/Logs.md)
 ---
