@@ -13,7 +13,7 @@ Wiki pages:
 ---
 ## [HISTORY](History/GeneralHistory.md)
 ---
-## [CHARACTERS](CharacterIndex.md)
+## [CHARACTERS](Characters/CharacterIndex.md)
 ---
 ## [MACHINES](Machines/MachineList.md)
 ---
