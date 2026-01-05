@@ -5,11 +5,13 @@
 
 Chὣatl, nicknamed Shelt by the human he met, is a pilot under the MDF.
 
-## History
+### History
 During a skirmish between the PCA and the MDF, Chὣatl and a human pilot named Zack were left as the sole survivors of a particular section of the battlefield. Chὣatl was trapped by the rubble of his machine, though was freed by Zack after a mutual agreement not to harm one another.
 
-## Equipment
+### Traits and Equipment
+Unknown traits.
+
 Chὣatl was equipped with standard MDF augmentations.
 
-## Behind the Scenes
+### Behind the Scenes
 MDF Story 6 was never completed, leading to the abruptness of his history's ending.
