@@ -10,8 +10,10 @@ Ahekohek appeared briefly within the PCA Central Prison, as one of the captured 
 
 Ahekohek was later confirmed to be on board the MDF-KR12 VAKETHORAN as its chief gunner.
 
-### Equipment
-NO DATA
+### Traits and Equipment
+A confrontational Magmosian, Ahekohek was rather abrasive toward Villarian, believing a member of the MDF's KT should not be at all comfortable with any human. Later, on board the VAKETHORAN, he was revealed to be somewhat selfish as well.
+
+He had standard Magmosian augmentations.
 
 ### Behind the Scenes
 Ahekohek was named after the Akohekohe, a rare bird endemic to Hawaii.
