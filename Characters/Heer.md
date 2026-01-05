@@ -5,11 +5,11 @@
 
 Heer was a regional commander in charge of fighting Deogans during the Deogan-Falorian war.
 
-## History
+### History
 Heer only appeared one time, where he sighted a Deogan encampment while on a patrol with Brossk. The MDF leader said he would take the encampment himself, and despite Heer's protests, Brossk proceeded to do so.
 
-## Equipment
-NO DATA
+### Equipment
+Unknown
 
-## Behind the Scenes
+### Behind the Scenes
 Heer's sex went entirely undecided until proofreading had been completed, at which point he was decided to be male, and some androgynous pronouns were replaced.
