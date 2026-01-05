@@ -5,11 +5,13 @@
 
 Ferris is a Vespadon within the MDF. She is the Vespadon of Villarian's company.
 
-## History
+### History
 Ferris's sole appearance was in a short story, where she attempted to console an anxious Villarian- who had only just become a Veldaron- after he'd killed a dissenting soldier. She assured him that the Magmosian's death was necessary, and sent Villarian away to get something to eat.
 
-## Equipment
-NO DATA
+### Equipment
+Ferris, as with any Vespadon, was generally calm and supportive. However, she presented herself as somewhat more utilitarian to Villarian.
 
-## Behind the Scenes
+She had standard Vespadon augmentation.
+
+### Behind the Scenes
 Ferris was named partially after Pharis, the archer from Dark Souls.
