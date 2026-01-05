@@ -10,8 +10,10 @@ While Villarian was entering a central building to be taken in for questioning, 
 
 He did not, however, interfere when [Vaill](Vaill.md) challenged Hornet.
 
-### Equipment
-Liekov wore armor not dissimilar to Magmosian combat augmentations, though all external.
+### Traits and Equipment
+Liekov was a curious Magmosian who carried little aggression, possibly a symptom of his lack of augmentations.
+
+He wore armor not dissimilar to Magmosian combat augmentations, though all external.
 
 ### Behind the Scenes
 Liekov was the first unaugmented Magmosian to be named, and only the second to appear on-screen.
