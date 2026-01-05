@@ -1,8 +1,8 @@
-# CHARACTERS
+# CHARACTERS  
 ---  
-List of named characters.
-
-## Magmos Dominion Force (MDF)
+Below is a ist of named characters that appear exclusively within the Magmos 2 campaign.  
+---  
+## Magmos Dominion Force (MDF)  
 - [Ahekohek](Ahekohek.md)
 - [Ancient](Ancient.md)
 - [Avekav](Avekav.md)
@@ -29,6 +29,7 @@ List of named characters.
 - [Thaddeus](Thaddeus.md)
 - [Vadersh](Vadersh.md)
 - [Vaill](Vail.md)
+- [Valkour](Valkour.md)
 - [Vattelen Vella](VattelenVella.md)
 - [Vaux Azzacci](VauxAzzacci.md)
 - [Veraq](Veraq.md)
@@ -37,7 +38,7 @@ List of named characters.
 - [Vieke](Vieke.md)
 - [Villarian](Villarian.md)
 - [Vorlon](Vorlon.md)
-- [Zelvan](BM-Zelvan.md)
+- [Zelvan](Zelvan.md)
 
 ## Planetary Closure Administration (PCA)
 - [Executive Officer Stronghold](EO-Stronghold.md)
