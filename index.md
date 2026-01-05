@@ -19,3 +19,5 @@ Wiki pages:
 ---
 ## [DATA LOGS](DataLogs/Logs.md)
 ---
+## [WORLD INFORMATION](WorldInfo/World.md)
+---
