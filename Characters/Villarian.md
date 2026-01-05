@@ -1,7 +1,7 @@
 # Villarian, Magmosian Infiltrator
 ---  
-*"Quote."*
-- Character, in Context.
+*"I 𝘬𝘯𝘰𝘸 this is what I want, but… my entire life, this was portrayed as something worth 𝘭𝘢𝘶𝘨𝘩𝘪𝘯𝘨 at. It was a joke to think about liking a human- an insult. And not a particularly lighthearted one."*
+- Villarian
 
 Villarian is a Magmosian Veldaron working within the MDF, currently in a relationship with Hornet.
 
