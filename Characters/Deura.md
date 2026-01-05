@@ -5,7 +5,7 @@
 
 Deura is a Vespadon operating within the MDF. She was assigned to head the Capital Prison.
 
-## History
+### History
 Deura first appeared in the Capital Prison. It was her task to gain information kindly from each prisoner - a task she was moderately successful at.
 
 Shortly after her first meeting with Beo Itou, Deura was interrupted by a scientific incident that resulted in the spontaneous generation of several dozen Deogan soldiers from centuries in the past. Deura fought her way through several of them to protect Beo, though sustained several injuries.
@@ -15,8 +15,10 @@ Later, around the same time as she had met Stockholm and Arno Jager, her most re
 
 During the prison break, Deura appeared only briefly, nodding once toward Ford as he left.
 
-## Equipment
+### Traits and Equipment
+Calm as any Vespadon, Deura was pleasant to talk to and expressed a liking for humanity. She treated the inmates at the Capital Prison well, and by her final appearance, was pseudo-religious.
+
 Deura was equipped with the standard Vespadon augmentations, alongside a normal Vespadon sword that could extend with pulse technology.
 
-## Behind the Scenes
+### Behind the Scenes
 Deura has not been confirmed to have converted to Christianity, but some memes about Twitter have depicted her with a Christian cross emoji next to her name.
