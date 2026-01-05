@@ -9,7 +9,7 @@ Villarian is a Magmosian Veldaron working within the MDF, currently in a relatio
 History here.
 
 ### Traits and Equipment
-Personality here.
+Villarian is somewhat of a [tsundere](https://en.wikipedia.org/wiki/Tsundere), presenting himself as callous and aggressive. He is, however, still reasonable. Over time, he has grown a strong affection for Hornet (who is now his girlfriend), being deeply protective of her.
 
 He has standard Infiltrator augmentations, and wields a standard Infiltrator sword. Recently, he has also acquired a Brekk, a squared cape that covers both shoulders.
 
