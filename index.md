@@ -21,4 +21,4 @@ Wiki pages:
 ---
 ## [WORLD INFORMATION](WorldInfo/World.md)
 ---
-## [LITERALLY JUST A TARRAGON TEST PAGE](Tarragon.html)
+## [LITERALLY JUST A TARRAGON TEST PAGE](Tarragon.htm)
