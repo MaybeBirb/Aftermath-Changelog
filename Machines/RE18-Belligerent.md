@@ -1,6 +1,7 @@
 # MDF-RE18: BELLIGERENT
 ---
-<img width="563" height="620" alt="image" src="https://github.com/user-attachments/assets/9809a6d0-2726-4c58-92b0-34bc8b9181ae" />
+<img width="563" height="620" alt="image" src="https://github.com/user-attachments/assets/9809a6d0-2726-4c58-92b0-34bc8b9181ae" />  
+
 ---
 * 16m
 * Magmos Dominion Force machine reverse-engineered from *AA18: Light Cavalry*
@@ -12,16 +13,16 @@
 
 
 ### OBSERVED WEAPONRY
-**TYPE-A**
--Flame Sword
--Long-Range Assault Rifle
--Repeating Shotgun
--Linear Sniper Rifle
--Kinetic Heat Shield
--Shoulder Spreak Bazooka
--Shoulder Support Missiles
--Supporting Jetpack
+**TYPE-A**  
+-Flame Sword  
+-Long-Range Assault Rifle  
+-Repeating Shotgun  
+-Linear Sniper Rifle  
+-Kinetic Heat Shield  
+-Shoulder Spreak Bazooka  
+-Shoulder Support Missiles  
+-Supporting Jetpack  
 
-**TYPE-B**
--Heavy Minigun
+**TYPE-B**  
+-Heavy Minigun  
 -Repeating Rocket Launcher
