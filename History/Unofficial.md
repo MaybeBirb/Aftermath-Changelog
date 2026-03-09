@@ -1,6 +1,6 @@
 # Unofficial Summaries  
 ---  
-## The Mask Max0r Summary  
+## The Mask Max0r Summary (The Mask Master)
 So basically:  
 PCA’s a property of Earthgov, also known as the Assembly of Allied Nations, also known as the AAN  
 Fun fact, every planet in the channel list, be it Earth, Rubicon, Eyvanna, Cryonis, heck even *Zastoj* is property of the AAN, to the point that in this verse then an “independent planet” isn’t really a thing. Granted, the corps are able to operate in the AAN’s system, but it remains quite the juggernaut in the universe, with the PCA and Assembly Interplanetary Military (AIM) at their disposal.  
@@ -12,7 +12,7 @@ These lizards—some call them communists but realistically they’re technicall
 
 ---
 
-## Magmosian Summary (The Mask Master)
+## Magmosian Summary (The Mask Master)  
 Magmosians are the only “true” intelligent alien species documented by humanity, though are strictly classified, making very few aware of their existence. This was due to their discovery at the hands of the PCA. Allegedly, on the mining planet of Magmos 2 where the PCA was gathering resources for new craft, the Magmosians came out of the ground one day and politely asked the PCA to step aside in clear English so that they could take their place as the rightful rulers of the Rubicon system— and the universe. Now, Magmos holds the largest number of PCA forces anywhere short of Earth itself. Magmosians have never been seen without their augmentations that turn them into massive mechanical beasts with all kinds of weaponry, however autopsies reveal them to be massive, ape-like monsters with a rough underbelly not dissimilar to sharks, and rocky scales along the back closer to lizards. Despite their similarities to some earthen species, however, they aren’t really mammals, fish or lizards— their anatomy is unique enough to classify them as their own type of creature. 
 
 The MDF (Magmos Dominion Force) is the nation all Magmosians band under, a strictly fascist empire where all Magmosians are strictly monitored and brainwashed through propaganda, and those who are showing too many signs of defection die under suspicious circumstances. They’ve been noted for their plentiful and unique craft as well as their tendency for more unorthodox practices like sending Infiltrators (purple) into PCA warships and other heavy craft to destroy them from the inside.
@@ -21,5 +21,5 @@ Among their biggest talents is their ability to reverse-engineer pretty much any
 
 ---
 
-## Magmosian/Human Size Comparison
+## Magmosian/Human Size Comparison (Maybe Birb)  
 <img width="735" height="440" alt="Base" src="https://github.com/user-attachments/assets/3eed2e99-283c-4ce9-bf9a-d64d2f3b1352" />
