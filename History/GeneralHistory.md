@@ -1,7 +1,7 @@
 # HISTORY  
 ---  
-### [MISSIONS](Missions.md)  
+## [MISSIONS](Missions.md)  
 ---  
-### [HISTORY DOCUMENT](Document.md)   
+## [HISTORY DOCUMENT](Document.md)   
 ---
-### [UNOFFICIAL LOREDUMPS](Unofficial.md)
+## [UNOFFICIAL LOREDUMPS](Unofficial.md)
