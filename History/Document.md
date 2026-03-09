@@ -1,5 +1,11 @@
 ### EVENT REPORT: MAGMOS 2  
+
 ---  
+
+Formatted document: https://docs.google.com/document/d/1duSkHl2t4zMB_Wisz4I4YLku6L6NsWHtMo6h6VsaNlE
+
+--- 
+
 Pre-history  
 ```
 08/03/XXXX: AAN researchers located and named Magmos 2 from an observatory on UNSPECIFIED. Subsequent reports identified the planet’s composition.
