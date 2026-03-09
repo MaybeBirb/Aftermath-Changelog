@@ -1,4 +1,4 @@
-# GENERAL HISTORY  
+# HISTORY  
 ---  
 ### [MISSIONS](Missions.md)  
 ---  
