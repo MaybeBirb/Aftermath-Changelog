@@ -18,3 +18,8 @@ Magmosians are the only “true” intelligent alien species documented by human
 The MDF (Magmos Dominion Force) is the nation all Magmosians band under, a strictly fascist empire where all Magmosians are strictly monitored and brainwashed through propaganda, and those who are showing too many signs of defection die under suspicious circumstances. They’ve been noted for their plentiful and unique craft as well as their tendency for more unorthodox practices like sending Infiltrators (purple) into PCA warships and other heavy craft to destroy them from the inside.
 
 Among their biggest talents is their ability to reverse-engineer pretty much anything. They had already figured out the English language before the PCA were even aware of them, and had replicated and improved LCs only months into the war. As the biggest threat in the eyes of the PCA, they are a race you wouldn’t want to be up against under any circumstances, with troops deployed on Magmos calling it Planet Hell for shorthand.
+
+---
+
+## Magmosian/Human Size Comparison
+<img width="735" height="440" alt="Base" src="https://github.com/user-attachments/assets/3eed2e99-283c-4ce9-bf9a-d64d2f3b1352" />
