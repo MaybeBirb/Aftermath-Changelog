@@ -10,4 +10,4 @@ HIVE LEADERs are too large for conventional staggering and damaging, though by a
 
 The main method of attack from the HIVE LEADERs were their control of their Drones, which they would be surrounded by thousands of. A light on the face of the HIVE LEADER would change colors to indicate what instructions were being given to the drones.
 
-Heavy Warship Fleet "Epsilon" destroyed three of the Hive Leaders. Archon Team destroyed the fourth Hive Leader, and Capital Warrant Officer Viktor Xel eliminated the fifth, presumably via his OMAC.
+Heavy Warship Fleet "Epsilon" destroyed three of the Hive Leaders. Archon Team destroyed the fourth Hive Leader, and Capital Warrant Officer Viktor Xel eliminated the fifth, presumably via his OMAC. The sixth was eliminated by the elite team led by Sarah Graywolf.
