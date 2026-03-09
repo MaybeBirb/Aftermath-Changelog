@@ -1,5 +1,7 @@
 # Missions
+
 ---  
+
 ## Defend the Mobile Carrier  
 Combat Zone: #sandstone-field  
 Reward: 600,000 COAM  
@@ -21,7 +23,9 @@ Your mission is to destroy all hostile forces and reinforce the on-scene PCA for
 There are only two Super-Heavy Carriers in the galaxy… we can’t afford to lose this carrier.
 ```  
 (Boss: Unmanned Machines A & B)  
+
 ---  
+
 ## **Attack the Magma Dam**  
 Combat Zone: #magma-dam  
 Reward: 550,000 COAM  
@@ -42,7 +46,9 @@ The Magma Dam is a major stronghold held by [RECACTED]. All forces sent in to de
 You and a team of four EKDROMOI will be sent through different openings to destroy the dam. This mission is straight from the top… handle it.
 ```  
 (Boss: Unmanned Machine C)  
+
 ---  
+
 ## Eliminate the Crawler Corps  
 Combat Zone: #lava-mountains  
 Reward: 365,000 COAM  
@@ -62,7 +68,9 @@ We're equipping all units with tow cables and sending them to eliminate the Craw
 We have a few reinforcements to send your way, ourselves, but they will arrive late. There is no time to wait for them.
 ```  
 (Boss: PCA Colonel Bloodhound / AAS04 MANICA)  
+
 ---  
+
 ## Investigate the Destroyed Base  
 Combat Zone: #destroyed-outpost  
 Reward: 600,000 COAM, 2 OMAC credits  
@@ -85,7 +93,9 @@ We had an ENFORCER protecting that base. The System has calculated that the fire
 I want you to find out what happened.
 ```  
 (Boss: Lava Tarragon)
+
 ---  
+
 ## Support Operation  
 Combat Zone: #destroyed-city  
 Reward: 255,000 COAM  
@@ -105,7 +115,9 @@ An enforcement squad was dispatched to the remains of an enemy city in order to 
 They’ve said they just need a little extra firepower to wipe out the enemies. You all deserve an easy mission, so we’re giving this one to you.
 ```  
 (Boss: MDF-RE18 BELLIGERENTs)  
+
 ---  
+
 ## Drone Infestation  
 Combat Zone: #lava-mountains  
 Reward: 422,000 COAM  
@@ -123,7 +135,9 @@ We're deploying four teams to destroy them. Heavy Warship Fleet "Epsilon" will d
 You are to destroy the sixth and final Hive Leader. You'll be dropped in via a CT Helicopter after a bombing run clears a landing zone. Happy hunting.
 ```  
 (Boss: MDF-DR06 HIVE LEADER)  
+
 ---  
+
 ## Kill the Lava Tarragon  
 Combat Zone: #destroyed-outpost  
 Client: *Planetary Closure Administration / Magmos Dominion Force*  
@@ -148,7 +162,9 @@ With any luck, we'll be able to handle the Tarragon. The Magmosians supposedly k
 ...The Sergeant Major will inform you what the Tarragon is in case you've never seen it before. I understand if you aren't completely comfortable working with the Magmos Dominion Force, but it's currently our best option.
 ```  
 (Boss: Lava Tarragon Prime)  
+
 ---  
+
 ## Operation Iota IV  
 Combat Zone: #sandstone-field  
 Reward: 405,500 COAM  
@@ -170,7 +186,9 @@ We have deployed a team of three CATAPHRACTs (Iota I, Iota II, and Iota III)… 
 We will need as many EKDROMOI as we can manage. They will be ideal for terminating individual targets like we will be doing. There is no time to waste; initiate Operation Iota IV.
 ```
 (Boss: N/A)  
+
 ---  
+
 ## Emergency Counterstrike  
 *(Colloquially: Destroy The WORLD EATER)*
 Combat Zone: #destroyed-city  
@@ -193,7 +211,9 @@ Our retreat is still in effect, but we can't let this machine activate. We will 
 We're counting on you... every one of those lives aboard the Super-Heavy Carrier is counting on you.
 ```  
 (Boss: N/A)  
+
 ---  
+
 ## INFILTRATE THE MDF PRISON  
 **General Information**  
 Combat Zone: #dominion-force-fortress  
@@ -220,7 +240,9 @@ We have also confirmed that MDF Special Forces are present: Venators and Drelanx
 We would send a larger team, but we can't unnecessarily risk detection. You will be briefed on the full plan on the scene. The System has found it prudent to cut contact with you for the duration of this operation; we cannot risk the Antisystem finding out about this mission.
 ```  
 (Boss: N/A)  
+
 ---  
+
 ## Destroy the Antisystem  
 Combat Zone: #secure-sector  
 Reward: 400,000 COAM, 3 OMAC Credits  
@@ -239,7 +261,9 @@ Thankfully, scans indicate it is far from labyrinthine, with very few rooms betw
 Enter the bunker. Eliminate the Antisystem once and for all.
 ```  
 (Boss: MDF-RE03 ANTITHESIS)  
+
 ---  
+
 ## Protect High-Priority POIs  
 Combat Zone: #sandstone-field  
 Reward: 450,000 COAM, 2 OMAC Credits  
@@ -261,7 +285,9 @@ This turned out to be a correct decision. We've confirmed that MDF forces are ge
 The carriers and the Flagship are moving to get in range of the LEGATE wall now, but we need to buy them time. Get to the carriers, and divide yourselves amongst the points of interest immediately.
 ```  
 (Boss: Unmanned Machines A, B, C)  
+
 ---  
+
 ## Destroy the MDF Armored Train  
 Combat Zone: #destroyed-city  
 Reward: 255,000 COAM  
@@ -282,7 +308,9 @@ We're deploying a small team by aerial skydive. Once atop the train, enter throu
 There are members of the War Council on board. If we kill them through this attack, the strategic benefit will be unparalleled.
 ```  
 (Boss: Magmosian Operative Valkour)  
+
 ---  
+
 # Scout the Underground Shipyard  
 Combat Zone: #magma-dam-remains  
 Reward: 180,000 COAM  
@@ -302,7 +330,9 @@ With any luck, it's a warehouse, and this means any ships berthed there are larg
 Investigate it, and return to base with your findings. Avoid engagement if possible.
 ```  
 (Boss: Magmosian Head of Security Viceroy)  
+
 ---  
+
 ## Seize the Relay Network  
 Combat Zone: #sandstone-field  
 Reward: 290,000 COAM  
@@ -352,7 +382,9 @@ The composition of the ship is unknown- you will need to determine how to destro
 𝘛𝘢𝘬𝘦 𝘪𝘵 𝘥𝘰𝘸𝘯 𝙣𝙤𝙬, before Magmos becomes 𝘁𝘄𝗶𝗰𝗲 the hell it already is.
 ```
 (Boss: MDF-CL24 ISOPOD)   
+
 ---   
+
 *(This mission was voided before the boss could be engaged. The boss, though sharing a profile picture with the later-introduced CERATO, was intended to be a member of the MDF War Council.)*
 ## Break Through the ASDF  
 *(Alternative name: Suicide Mission)*  
