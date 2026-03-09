@@ -19,6 +19,3 @@ Wiki pages:
 ---
 ## [DATA LOGS](DataLogs/Logs.md)
 ---
-## [WORLD INFORMATION](WorldInfo/World.md)
----
-## [LITERALLY JUST A TARRAGON TEST PAGE](Tarragon.htm)
