@@ -2,7 +2,7 @@
 **PATCH NOTES**  
 ---  
 ## FRAME PARTS
-- All frame parts have Repair Efficiency and Scan Angle now
+- All head parts have Repair Efficiency and Scan Angle now
 - **TIAN-QIANG** (Head): Attitude Stability increased from 267 -> 333. Kinetic defense increased from -0.8% -> 1%. Energy defense increased from -1% -> .2%
 - **KASUAR** (Head): AP increased from 480 -> 490
 - **WRECKER** (Head): Elemental resistance increased from 93 -> 106. AP increased from 1130 -> 1195. Scan reload time decreased from 12 -> 9.6
@@ -26,14 +26,14 @@
 - All weapons now show projectile velocity
 - All Coral weapons now have extremely punishing operating costs and ammunition restrictions
 - Turrets can now be targeted and destroyed
-- **Vvc-774LS**: Direct hit adjustment increased from 85 -> 95
+- **Vvc-774LS**: Direct hit adjustment increased from 185 -> 195
 - **RANSETSU-AR**: Magazine increased from 18 -> 27. Rate of fire increased slightly. Projectile velocity increased from 550 -> 600. Damage increased from 77 -> 93. Impact increased from 64 -> 69. Direct hit adjustment increased from 85 -> 95. Acc impact increased from 25 -> 39
 - **TURNER**: Magazine increased from 18 -> 24. Projectile velocity increased from 550 -> 650. Damage increased from 105 -> 120. Impact increased from 65 -> 72. Acc impact increased from 28 -> 42
 - **SCUDDER**: Magazine increased from 15 -> 21. Damage increased from 135 -> 156. Impact increased from 82 -> 90.  Acc impact increased from 39 -> 54
 - **LITTLE GEM**: Reload decreased from 4.4 -> 3.2. Projectile velocity increased from 345 -> 400. Proximity detonation increased from 7m -> 8m. Direct hit adjustment increased from 180 -> 195
 - **GOU-CHEN**: Damage increased from 1450 -> 1580. Impact increased from 1197 -> 1204. Direct hit adjustment increased from 140 -> 150. Acc impact increased from 906 -> 950
-- **DIZZY**: Damage increased from 1790 -> 1650. Impact increased from 1278 -> 1330. Direct hit adjustment increased from 145 -> 155. Acc impact increased from 1003 -> 1094
-- **IRIDIUM**: Reload decreased from 3.8 -> 3.7. Projectile velocity increased from 420 -> 500. Damage increased from 1090 -> 1160. Impact increased from 991 -> 1010. Direct hit adjustment increased from 140 -> 150. Accumulative impact increased from 890 -> 845
+- **DIZZY**: Damage increased from 1650 -> 1790. Impact increased from 1278 -> 1330. Direct hit adjustment increased from 145 -> 155. Acc impact increased from 1003 -> 1094
+- **IRIDIUM**: Reload decreased from 3.8 -> 3.7. Projectile velocity increased from 420 -> 500. Damage increased from 1090 -> 1160. Impact increased from 991 -> 1010. Direct hit adjustment increased from 140 -> 150. Accumulative impact increased from 845 -> 890
 - **SAMPU**: Reload time decreased from 1.9 -> 1.8. Maximum recoil spread decreased. Ideal and effective ranges increased
 - **KYORIKU**: Weight decreased from 2600 -> 2110. Total rounds increased from 40 -> 95. Subtle passive damage added to ECM cloud
 - **KRSV**: Charged ammo consumption decreased from 8 -> 3. Fully charged ammo consumption decreased from 20 -> 8
