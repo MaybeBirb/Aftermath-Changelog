@@ -6,6 +6,8 @@ description: The official changelog for the Armored Core: Aftermath mod, kept fu
 
 # CHANGELOG
 -
+## [CHANGES TO BASE EQUIPMENT](frombase.md)
+-
 ## [0.1.03](Versions/0103.md)  
 -
 ## [0.1.04](Versions/0104.md)  
