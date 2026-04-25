@@ -1,0 +1,17 @@
+# DIFFERENCES FROM BASE
+**PATCH NOTES**  
+---  
+## FRAME PARTS
+- 
+
+## WEAPONS
+- 
+
+## EXPANSIONS
+- 
+
+## INTERNALS
+- 
+
+## MISCELLANEOUS
+- 
