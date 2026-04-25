@@ -26,7 +26,9 @@
 - 
 
 ## EXPANSIONS
-- 
+- Expansions now show cooling time
+- **ASSAULT ARMOR**: Damage increased from 1500 -> 1800. Impact increased from 2000 -> 2250. Acc impact increased from 1380 -> 1480
+- **PULSE PROTECTION**: Barrier HP increased from 7000 -> 9000. HP decay decreased from 280/s -> 200/s. Cooling time decreased from 25 -> 20
 
 ## INTERNALS
 - All FCS's now have precision stat
