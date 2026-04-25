@@ -29,7 +29,15 @@
 - 
 
 ## INTERNALS
-- 
+- All FCS's now have precision stat
+- All boosters now have AB dodge stats
+- **BST-G2/P04** (Booster): Ground speed increased from 360 -> 372. Melee thrust increased by ~10m/s
+- **GILLS** (Booster): QB thrust increased by 11-20m/s
+- **MULE** (Booster): EN load reduced from 200 -> 120. Vertical EN cost reduced from 405 -> 320. QB EN Consumption decreased from 670 -> 534. AB EN consumption decreased by ~30EN/s. Melee thrust EN cost decreased by ~20EN/s. QB ideal weight increased from 80000 -> 91100. AB Dodge cost decreased from 536 -> 420
+- **BST-G1/P10** (Booster): Ground speed increased from 344 -> 351. QB ideal weight increased from 65200 -> 80500
+- **JOSO** (Generator): EN output increased from 2600 -> 2930. EN supply increased from 400 -> 700
+- **LING-TAI** (Generator): EN output increased from 2340 -> 2750
+- **AORTA** (Generator): EN capacity increased from 3000 -> 3200. EN recharge delay decreased from 4.2 -> 4.1. EN supply delay decreased from 3 -> 2.9. EN weapon specialization increased from 105 -> 108
 
 ## MISCELLANEOUS
 - 
