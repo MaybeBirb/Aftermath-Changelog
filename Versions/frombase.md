@@ -23,7 +23,25 @@
 - **VERRILL** (Legs): AP increased from 5650 -> 4990
 
 ## WEAPONS
-- 
+- All weapons now show projectile velocity
+- All Coral weapons now have extremely punishing operating costs and ammunition restrictions
+- Turrets can now be targeted and destroyed
+- **RANSETSU-AR**: Magazine increased from 18 -> 27. Rate of fire increased slightly. Projectile velocity increased from 550 -> 600. Damage increased from 77 -> 93. Impact increased from 64 -> 69. Direct hit adjustment increased from 85 -> 95. Acc impact increased from 25 -> 39
+- **TURNER**: Magazine increased from 18 -> 24. Projectile velocity increased from 550 -> 650. 
+- **SCUDDER**: Magazine increased from 15 -> 21.
+- **LITTLE GEM**: Reload decreased from 4.4 -> 3.2. Projectile velocity increased from 345 -> 400. Proximity detonation increased from 7m -> 8m.
+- **SAMPU**: Reload time decreased from 1.9 -> 1.8. Maximum recoil spread decreased. Ideal and effective ranges increased.
+- **KYORIKU**: Weight decreased from 2600 -> 2110. Total rounds increased from 40 -> 95. Subtle passive damage added to ECM cloud
+- **IRIDIUM**: Reload decreased from 3.8 -> 3.7. Projectile velocity increased from 420 -> 500.
+- **KRSV**: Charged ammo consumption decreased from 8 -> 3. Fully charged ammo consumption decreased from 20 -> 8.
+- **SHAO-WEI**: Projectile speed increased from 500 -> 555. Effective range extended.
+- **VE-60SNA**: Reload time increased from 5 -> 6.5
+- **VP-60LCS**: Projectile velocity increased from 500 -> 590. 
+- **DUO-03**: Lock time decreased from 0.75 -> 0.5
+- **DELIVERY BOY**: Lock time decreased from 5 -> 3. 
+- **BML-G1/P29CNT**: Reload time decreased from 12 -> 8. Altered to only fire missiles in the upper 90 degrees
+- **EULE**: Shield HP increased from 10000 -> 20000
+- **VP-60LT**: Laser range increased by ~150m. 
 
 ## EXPANSIONS
 - Expansions now show cooling time
