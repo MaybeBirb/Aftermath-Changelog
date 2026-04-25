@@ -53,7 +53,7 @@
 
 ## INTERNALS
 - All FCS's now have precision stat
-- All boosters now have AB dodge stats
+- All boosters now have AB dodge stats and QB Distance stat
 - **BST-G2/P04** (Booster): Ground speed increased from 360 -> 372. Melee thrust increased by ~10m/s
 - **GILLS** (Booster): QB thrust increased by 11-20m/s
 - **MULE** (Booster): EN load reduced from 200 -> 120. Vertical EN cost reduced from 405 -> 320. QB EN Consumption decreased from 670 -> 534. AB EN consumption decreased by ~30EN/s. Melee thrust EN cost decreased by ~20EN/s. QB ideal weight increased from 80000 -> 91100. AB Dodge cost decreased from 536 -> 420
