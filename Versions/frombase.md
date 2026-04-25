@@ -63,4 +63,6 @@
 - **AORTA** (Generator): EN capacity increased from 3000 -> 3200. EN recharge delay decreased from 4.2 -> 4.1. EN supply delay decreased from 3 -> 2.9. EN weapon specialization increased from 105 -> 108
 
 ## MISCELLANEOUS
-- 
+- OS tuning can now be maxxed out
+- Scanning makes enemies take additional damage
+- Clarified ACS anomaly visuals
