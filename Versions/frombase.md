@@ -21,6 +21,7 @@
 - **JAILBREAK** (Legs): Weight increased from 18560 -> 21560. EN consumption increased from 300 -> 342. AP increased from 2000 -> 2460. Jump distance decreased from 132 -> 81. Load limit increased from 62600 -> 28500. Energy defense decreased from 1.5% -> 0.2%. Jump height decreased from 25 -> 11
 - **SPRING CHICKEN** (Legs): Stability increased from 841 -> 860
 - **VERRILL** (Legs): AP increased from 5650 -> 4990
+- **IANITOR [1]** (Legs): Reworked ground and kiting performances to make clearer "strong" and "vulnerable" periods  
 
 ## WEAPONS
 - All weapons now show projectile velocity
