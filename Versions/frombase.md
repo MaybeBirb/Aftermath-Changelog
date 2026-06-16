@@ -2,7 +2,10 @@
 **PATCH NOTES**  
 ---  
 ## FRAME PARTS
-- All head parts have Repair Efficiency and Scan Angle now
+- All head parts display Scan Angle now
+- Tetrapod legs display hover stats now
+- New stat: **Repair Efficiency** (Head)
+- New stat: **Generator Capacity Adj.** (Core)
 - **TIAN-QIANG** (Head): Attitude Stability increased from 267 -> 333. Kinetic defense increased from -0.8% -> 1%. Energy defense increased from -1% -> .2%
 - **KASUAR** (Head): AP increased from 480 -> 490
 - **WRECKER** (Head): Elemental resistance increased from 93 -> 106. AP increased from 1130 -> 1195. Scan reload time decreased from 12 -> 9.6
@@ -25,7 +28,6 @@
 ## WEAPONS
 - All weapons now show projectile velocity
 - All Coral weapons now have extremely punishing operating costs and ammunition restrictions
-- Turrets can now be targeted and destroyed
 - **Vvc-774LS**: Direct hit adjustment increased from 185 -> 195
 - **RANSETSU-AR**: Magazine increased from 18 -> 27. Rate of fire increased slightly. Projectile velocity increased from 550 -> 600. Damage increased from 77 -> 93. Impact increased from 64 -> 69. Direct hit adjustment increased from 85 -> 95. Acc impact increased from 25 -> 39
 - **TURNER**: Magazine increased from 18 -> 24. Projectile velocity increased from 550 -> 650. Damage increased from 105 -> 120. Impact increased from 65 -> 72. Acc impact increased from 28 -> 42
@@ -52,8 +54,8 @@
 - **PULSE PROTECTION**: Barrier HP increased from 7000 -> 9000. HP decay decreased from 280/s -> 200/s. Cooling time decreased from 25 -> 20
 
 ## INTERNALS
-- All FCS's now have precision stat
-- All boosters now have AB dodge stats and QB Distance stat
+- New stat: **Lock Precision** (FCS)
+- All boosters now show AB dodge stats and QB Distance stat
 - **BST-G2/P04** (Booster): Ground speed increased from 360 -> 372. Melee thrust increased by ~10m/s
 - **GILLS** (Booster): QB thrust increased by 11-20m/s
 - **MULE** (Booster): EN load reduced from 200 -> 120. Vertical EN cost reduced from 405 -> 320. QB EN Consumption decreased from 670 -> 534. AB EN consumption decreased by ~30EN/s. Melee thrust EN cost decreased by ~20EN/s. QB ideal weight increased from 80000 -> 91100. AB Dodge cost decreased from 536 -> 420
@@ -66,3 +68,4 @@
 - OS tuning can now be maxxed out
 - Scanning makes enemies take additional damage
 - Clarified ACS anomaly visuals
+- Added additional part sorting options
