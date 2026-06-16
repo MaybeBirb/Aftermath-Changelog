@@ -20,7 +20,7 @@
 - **HAL 826** (Legs): EN load increased from 345 -> 385. AP decreased from 4320 -> 4120. Weight decreased from 20190 -> 18400
 - **JAILBREAK** (Legs): Weight increased from 18560 -> 21560. EN consumption increased from 300 -> 342. AP increased from 2000 -> 2460. Jump distance decreased from 132 -> 81. Load limit increased from 62600 -> 28500. Energy defense decreased from 1.5% -> 0.2%. Jump height decreased from 25 -> 11
 - **SPRING CHICKEN** (Legs): Stability increased from 841 -> 860
-- **VERRILL** (Legs): AP increased from 5650 -> 4990
+- **VERRILL** (Legs): AP increased from 5650 -> 4990. Hover EN consumption increased from 65 -> 75
 - **IANITOR [1]** (Legs): Reworked ground and kiting performances to make clearer "strong" and "vulnerable" periods  
 
 ## WEAPONS
